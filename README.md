@@ -6,7 +6,7 @@ In this work, we present a novel framework that unifies the candidate moment enc
 
 ## Network architecture
 
-<p align="center"><img width="90%" src="imgs/man.png" />
+<p align="center"><img width="90%" src="man.png" />
   
 ## Prerequisites 
 - Python 3.6.8
